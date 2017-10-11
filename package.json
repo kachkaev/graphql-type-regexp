@@ -1,0 +1,23 @@
+{
+  "name": "graphql-type-regexp",
+  "version": "0.1.1",
+  "description": "RegExp scalar type for GraphQL.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kachkaev/graphql-type-regexp.git"
+  },
+  "keywords": [],
+  "author": "Alexander Kachkaev <alexander@kachkaev.ru> (http://en.kachkaev.ru/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kachkaev/graphql-type-regexp/issues"
+  },
+  "homepage": "https://github.com/kachkaev/graphql-type-regexp#readme",
+  "peerDependencies": {
+    "graphql": "^0.4.0"
+  }
+}
