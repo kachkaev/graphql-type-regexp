@@ -1,6 +1,6 @@
 {
   "name": "graphql-type-regexp",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "RegExp scalar type for GraphQL.js",
   "main": "index.js",
   "scripts": {
@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/kachkaev/graphql-type-regexp#readme",
   "peerDependencies": {
-    "graphql": "^0.4.0"
+    "graphql": ">=0.4.0"
   }
 }
