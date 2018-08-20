@@ -45,6 +45,6 @@ The resolver will receive `new RegExp("g.*b")`, which is the same as `/g.*b/` (w
 
 Example:
 
-*   https://gitlab.com/kachkaev/website-graphql-server/blob/master/src/schema.js
+*   https://gitlab.com/kachkaev/website-graphql-server/blob/master/src/schema.graphql
 
-*   https://gitlab.com/kachkaev/website-graphql-server/blob/master/src/resolvers.js
+*   https://gitlab.com/kachkaev/website-graphql-server/blob/master/src/resolvers.ts
